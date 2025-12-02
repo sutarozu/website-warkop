@@ -23,6 +23,8 @@ document.querySelector('#shopping-cart-button').onclick = (e) => {
   e.preventDefault();
 };
 
+// Jangan maen-maen
+
 // Klik di luar elemen
 const hm = document.querySelector('#hamburger-menu');
 const sb = document.querySelector('#search-button');
